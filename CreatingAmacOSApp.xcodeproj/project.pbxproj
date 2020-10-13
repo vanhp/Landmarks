@@ -43,6 +43,7 @@
 		2FACA8772535990400BB947C /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FACA8762535990400BB947C /* FilterView.swift */; };
 		2FACA87F2535A23C00BB947C /* NavigationPrimaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FACA87E2535A23C00BB947C /* NavigationPrimaryView.swift */; };
 		2FACA8862535A9A600BB947C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394879229F1B3F00C47603 /* CircleImage.swift */; };
+		2FACA88D2535AAE900BB947C /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B739487B229F1B6800C47603 /* MapView.swift */; };
 		9357B0942318808300826E1D /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9357B0922318808300826E1D /* Interface.storyboard */; };
 		9357B0962318808400826E1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9357B0952318808400826E1D /* Assets.xcassets */; };
 		9357B09D2318808400826E1D /* WatchLandmarks Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 9357B09C2318808400826E1D /* WatchLandmarks Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -861,6 +862,7 @@
 				2F305ED2253566CB00DCDC00 /* UserData.swift in Sources */,
 				2F305E8B253564D400DCDC00 /* ContentView.swift in Sources */,
 				2F305ED1253566CB00DCDC00 /* Profile.swift in Sources */,
+				2FACA88D2535AAE900BB947C /* MapView.swift in Sources */,
 				2F305EDB253566CB00DCDC00 /* Hike.swift in Sources */,
 				2FACA8862535A9A600BB947C /* CircleImage.swift in Sources */,
 				2F305E89253564D400DCDC00 /* AppDelegate.swift in Sources */,
